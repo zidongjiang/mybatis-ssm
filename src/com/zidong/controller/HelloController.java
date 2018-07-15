@@ -31,7 +31,7 @@ public class HelloController {
 		return "hello";
 	}
 
-	@Test
+
 	public void test(){
 		System.out.print("你好");
 	}
